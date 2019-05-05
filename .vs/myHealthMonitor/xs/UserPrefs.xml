@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{0EF84FDE-2E03-43AA-8717-63F63C8E4037}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/HealthMonitor/appsettings.json">
+    <Files>
+      <File FileName="src/HealthMonitor/appsettings.json" Line="26" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="myHealthMonitor" expanded="True" selected="True">
+            <Node name="src" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.src.OrderService PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.src.HealthMonitor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
