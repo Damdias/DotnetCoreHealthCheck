@@ -7,3 +7,5 @@ To Utilize sample app run
 
 after both serivces are starting browse Health monitor service
 http://localhost:5000/HealthChecks-UI 
+
+![alt text](https://github.com/Damdias/DotnetCoreHealthCheck/blob/master/Healthmonitor.png)
